@@ -33,7 +33,7 @@ input[type='text'] {
     outline: none;
     margin: 12px 0;
     width: 100%;
-    padding: 12px 0;
+    padding: 12px 6px;
     text-align: end;
     cursor: default;
     user-select: none;
